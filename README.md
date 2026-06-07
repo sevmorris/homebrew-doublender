@@ -1,17 +1,17 @@
-# homebrew-doublender
+# homebrew-tap
 
 Homebrew tap for [DoublEnder](https://github.com/sevmorris/DoublEnder) — a guest-side double-ender podcast recorder for macOS.
 
 ## Install
 
 ```sh
-brew install --cask sevmorris/doublender/doublender
+brew install --cask sevmorris/tap/doublender
 ```
 
 Or add the tap first, then install:
 
 ```sh
-brew tap sevmorris/doublender
+brew tap sevmorris/tap
 brew install --cask doublender
 ```
 
